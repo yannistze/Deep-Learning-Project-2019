@@ -1,7 +1,7 @@
 # Deep-Learning-Project
 Attribute a song to an author or a genre
 
-<a href="pdfs/COMS_W4995_Deep_Learning_Project_Final_Report.pdf.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
+[Link to Report](http://yannistze.github.io/Deep-Learning-Project-2019/docs/COMS_W4995_Deep_Learning_Project_Final_Report.pdf)
 
 ## Setup
 
