@@ -1,6 +1,8 @@
 # Deep-Learning-Project
 Attribute a song to an author or a genre
 
+<a href="pdfs/COMS_W4995_Deep_Learning_Project_Final_Report.pdf.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>	
+
 ## Setup
 
 Our project depends on Hedwig, which is designed for Python 3.6 and [PyTorch](https://pytorch.org/) 0.4. PyTorch recommends [Anaconda](https://www.anaconda.com/distribution/) for managing your environment. We'd recommend creating a custom environment as follows:
